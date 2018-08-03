@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My SharedPreference</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="age">age</string>
+    <string name="love_coding">Love Coding</string>
+    <string name="save">save</string>
 </resources>
